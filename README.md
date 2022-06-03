@@ -1,6 +1,8 @@
+Decentralized Exchange </br>
+
 An exhange with only one asset pair (Eth <> Crypto Dev) </br>
 
-This Decentralized Exchange takes a fees of 1% on swaps </br>
+This DEX takes a fees of 1% on swaps </br>
 
 When user adds liquidity, they should be given Crypto Dev LP tokens (Liquidity Provider tokens) </br>
 
